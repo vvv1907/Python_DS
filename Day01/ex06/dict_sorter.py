@@ -1,7 +1,6 @@
 #!/usr/local/bin/python3
 
 def dict_sorter():
-    
     list_of_tuples = [
         ('Russia', '25'),
         ('France', '132'),
@@ -24,12 +23,7 @@ def dict_sorter():
         ('Austria', '14'),
         ('Israel', '12')
     ]
-    
     my_dict = dict((x, y) for x, y in list_of_tuples)
-
-    sorted_list = sorted(my_dict.items(), key=lambda item: item[0])
-
-    sorted_dict = {k: v for k, v in sorted_list}
 
     sorted_list = sorted(my_dict.items(), key=lambda item: (-int(item[1]), item[0]))
 
