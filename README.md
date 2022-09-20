@@ -11,5 +11,10 @@ Today we will help you acquire basic knowledge of the syntax and semantics of Py
 Day 02 "Intro to Python: OOP skills"
 Today we will help you acquire a basic knowledge of the OOP approach in Python.
 
-Day 03 ""
+Day 03 "Intro to Python: Package management and virtual environment"
+Today we will help you acquire basic knowledge about how to manage libraries in Python and work with virtual environments.
 
+Day 04 "Intro to Python: Efficient code practices"
+Today we will help you write code that works faster.
+
+Day 05 ""
