@@ -17,4 +17,13 @@ Today we will help you acquire basic knowledge about how to manage libraries in 
 Day 04 "Intro to Python: Efficient code practices"
 Today we will help you write code that works faster.
 
-Day 05 ""
+Rush 00 "MovieLens Analytics"
+This rush will help you to strengthen the skills acquired in the previous days
+
+Day 05 "Pandas: working with Dataframes"
+Today we will help you acquire skills with Pandas.
+
+Day 06 "SQL and Pandas"
+Today we will help you acquire skills with SQL.
+
+Day 07 ""
