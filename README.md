@@ -26,4 +26,8 @@ Today we will help you acquire skills with Pandas.
 Day 06 "SQL and Pandas"
 Today we will help you acquire skills with SQL.
 
-Day 07 ""
+Day 07 "Pandas, SQL and Data Visualization"
+Today we will help you with data visualization in Matplotlib, Seaborn, and Plotly.
+
+Day 08 ""
+
