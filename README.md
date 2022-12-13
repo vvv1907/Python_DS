@@ -32,5 +32,5 @@
 ### Day 08 "Intro to Machine Learning"
 #### Today we will help you with basic tasks involved in machine learning in Python.
 
-### Day 09 ""
-#### 
+### Day 09 "Machine Learning: Advanced"
+#### Today we will help you master advanced tasks involved in machine learning in Python.
